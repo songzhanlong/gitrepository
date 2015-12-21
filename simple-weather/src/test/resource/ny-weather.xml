@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<rss version="2.0" xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+	<channel>
+
+		<title>Yahoo! Weather - Evanston, IL</title>
+		<link>http://us.rd.yahoo.com/dailynews/rss/weather/Evanston__IL/*http://weather.yahoo.com/forecast/USIL0389_f.html</link>
+		<description>Yahoo! Weather for Evanston, IL</description>
+		<language>en-us</language>
+		<lastBuildDate>Sat, 19 Dec 2015 5:50 am CST</lastBuildDate>
+		<ttl>60</ttl>
+		<yweather:location city="Evanston" region="IL"
+			country="US" />
+		<yweather:units temperature="F" distance="mi" pressure="in"
+			speed="mph" />
+		<yweather:wind chill="3" direction="290" speed="9" />
+		<yweather:atmosphere humidity="68" visibility="10"
+			pressure="30.28" rising="1" />
+		<yweather:astronomy sunrise="7:13 am" sunset="4:20 pm" />
+		<image>
+			<title>Yahoo! Weather</title>
+			<width>142</width>
+			<height>18</height>
+			<link>http://weather.yahoo.com</link>
+			<url>http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif</url>
+		</image>
+		<item>
+			<title>Conditions for Evanston, IL at 5:50 am CST</title>
+			<geo:lat>42.05</geo:lat>
+			<geo:long>-87.69</geo:long>
+			<link>http://us.rd.yahoo.com/dailynews/rss/weather/Evanston__IL/*http://weather.yahoo.com/forecast/USIL0389_f.html</link>
+			<pubDate>Sat, 19 Dec 2015 5:50 am CST</pubDate>
+			<yweather:condition text="Fair" code="33" temp="15"
+				date="Sat, 19 Dec 2015 5:50 am CST" />
+			<description><![CDATA[
+<img src="http://l.yimg.com/a/i/us/we/52/33.gif"/><br />
+<b>Current Conditions:</b><br />
+Fair, 15 F<BR />
+<BR /><b>Forecast:</b><BR />
+Sat - Sunny. High: 33 Low: 26<br />
+Sun - Mostly Cloudy. High: 48 Low: 41<br />
+Mon - AM Showers. High: 49 Low: 35<br />
+Tue - Partly Cloudy. High: 45 Low: 40<br />
+Wed - Rain. High: 54 Low: 40<br />
+<br />
+<a href="http://us.rd.yahoo.com/dailynews/rss/weather/Evanston__IL/*http://weather.yahoo.com/forecast/USIL0389_f.html">Full Forecast at Yahoo! Weather</a><BR/><BR/>
+(provided by <a href="http://www.weather.com" >The Weather Channel</a>)<br/>
+]]></description>
+			<yweather:forecast day="Sat" date="19 Dec 2015"
+				low="26" high="33" text="Sunny" code="32" />
+			<yweather:forecast day="Sun" date="20 Dec 2015"
+				low="41" high="48" text="Mostly Cloudy" code="28" />
+			<yweather:forecast day="Mon" date="21 Dec 2015"
+				low="35" high="49" text="AM Showers" code="39" />
+			<yweather:forecast day="Tue" date="22 Dec 2015"
+				low="40" high="45" text="Partly Cloudy" code="30" />
+			<yweather:forecast day="Wed" date="23 Dec 2015"
+				low="40" high="54" text="Rain" code="12" />
+			<guid isPermaLink="false">USIL0389_2015_12_23_7_00_CST</guid>
+		</item>
+	</channel>
+</rss>
+
+<!-- fan466.sports.gq1.yahoo.com Sat Dec 19 04:54:50 PST 2015 -->
